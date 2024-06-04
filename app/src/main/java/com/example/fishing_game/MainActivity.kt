@@ -20,8 +20,8 @@ class MainActivity : AppCompatActivity() {
         }
     fun create_routin(){
         setContentView(R.layout.activity_create_rotine)
-        val file_name: String
-
+        val tv_file_title: String
+        val tv_file_contents :String
 
     }
 
